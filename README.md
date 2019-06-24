@@ -1,2 +1,3 @@
 # JavaProjects
-Projects from university
+
+Projects made for graded assigments at university
